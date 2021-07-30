@@ -7,6 +7,7 @@ import HomeScreen from './src/screens/HomeScreen';
 
 const App: () => Node = () => {
   return <HomeScreen />;
+  //something
 };
 
 export default App;
